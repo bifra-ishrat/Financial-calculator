@@ -1,1 +1,1 @@
-# Financial-calculator
+calculates NPV and IRR
